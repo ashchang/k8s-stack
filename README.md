@@ -18,11 +18,11 @@ need to be installed in every cluster
 
 #### CICD Related
 
+- DroneCI: https://artifacthub.io/packages/helm/community-charts/drone
+
 - argocd: https://artifacthub.io/packages/helm/argo/argo-cd
 - argocd-apps: https://artifacthub.io/packages/helm/argo/argocd-apps
 - argocd-image-updater: https://artifacthub.io/packages/helm/argo/argocd-image-updater
-
-- DroneCI: https://artifacthub.io/packages/helm/community-charts/drone
 
 #### Tracing
 jaegertracing: https://artifacthub.io/packages/helm/jaegertracing/jaeger
