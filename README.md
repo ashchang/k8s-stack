@@ -31,6 +31,7 @@ need to be installed in every cluster
 - Prom: https://artifacthub.io/packages/helm/prometheus-community/kube-prometheus-stack
 - Gatus: https://artifacthub.io/packages/helm/minicloudlabs/gatus
 - Metric-server: https://artifacthub.io/packages/helm/metrics-server/metrics-server
+- x509-Exporter: https://artifacthub.io/packages/helm/enix/x509-certificate-exporter
 
 #### Logs
 - Fluentd-Elasticsearch: https://artifacthub.io/packages/helm/kokuwa/fluentd-elasticsearch
