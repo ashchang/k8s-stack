@@ -17,7 +17,6 @@ need to be installed in every cluster
 (only use **istiobase, istio-ingress-gateway, istiod, istio-operator**)
 
 #### CICD Related
-
 - DroneCI: https://artifacthub.io/packages/helm/community-charts/drone
 
 - argocd: https://artifacthub.io/packages/helm/argo/argo-cd
