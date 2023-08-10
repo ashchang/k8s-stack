@@ -25,17 +25,17 @@ need to be installed in every cluster
 - argocd-image-updater: https://artifacthub.io/packages/helm/argo/argocd-image-updater
 
 #### Tracing
-jaegertracing: https://artifacthub.io/packages/helm/jaegertracing/jaeger
+- jaegertracing: https://artifacthub.io/packages/helm/jaegertracing/jaeger
 
 #### Monitoring
-Prom: https://artifacthub.io/packages/helm/prometheus-community/kube-prometheus-stack
-Gatus: https://artifacthub.io/packages/helm/minicloudlabs/gatus
-Metric-server: https://artifacthub.io/packages/helm/metrics-server/metrics-server
+- Prom: https://artifacthub.io/packages/helm/prometheus-community/kube-prometheus-stack
+- Gatus: https://artifacthub.io/packages/helm/minicloudlabs/gatus
+- Metric-server: https://artifacthub.io/packages/helm/metrics-server/metrics-server
 
 #### Logs
-Fluentd-Elasticsearch: https://artifacthub.io/packages/helm/kokuwa/fluentd-elasticsearch
-Elasticsearch: https://artifacthub.io/packages/helm/elastic/elasticsearch
-Kibana: https://artifacthub.io/packages/helm/elastic/kibana
+- Fluentd-Elasticsearch: https://artifacthub.io/packages/helm/kokuwa/fluentd-elasticsearch
+- Elasticsearch: https://artifacthub.io/packages/helm/elastic/elasticsearch
+- Kibana: https://artifacthub.io/packages/helm/elastic/kibana
 
 
 ---
